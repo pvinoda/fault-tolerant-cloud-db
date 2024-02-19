@@ -1,10 +1,6 @@
 # Cloud Computing Project
 
-## Team: CC_0094_0155_0260_1509
-1. Surya Narayan      (PES1201700094)
-2. Harikrishnan V     (PES1201700155)
-3. Rahul Pandia       (PES1201700260)
-4. Kruthik JT         (PES1201701509) 
+
 ## Contents:
 1. CC_0094_0155_0260_1509_Assignment_1<br>
 &nbsp;This folder contains all the required files for <b>Assignment-1</b><br>
